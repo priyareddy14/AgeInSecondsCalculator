@@ -64,7 +64,6 @@ Age-in-Seconds-Calculator/
 │
 ├── AgeInSecondsCalculator.java   # Main Java program
 ├── README.md                      # Project documentation
-└── flowchart.png                   # (Optional) Flowchart of the program
 
 
 ---
